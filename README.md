@@ -8,7 +8,7 @@ It was built while learning **Advanced JavaScript concepts like `this`, `bind`, 
 ---
 ## Live Demo
 
-javascript-user-card-manager.vercel.app
+https://javascript-user-card-manager.vercel.app/
 ---
 
 ## 🚀 Features
